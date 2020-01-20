@@ -25,3 +25,5 @@ hs_err_pid*
 # others files
 *.xml
 *.iml
+*.kotlin_module
+.idea
